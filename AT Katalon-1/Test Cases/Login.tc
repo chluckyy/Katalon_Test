@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan Login kedalam website &#xd;
+https://www.saucedemo.com setelah itu logout</description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf186358-ac29-490a-9a84-7005b6c0bee3</testCaseGuid>
+</TestCaseEntity>
